@@ -18,9 +18,9 @@ Contiene los siguientes archivos:
  
 README.MD : este archivo.
 
-Diagrama: Diagrama de las conexiones y componentes realizados para hacer la práctica.
+Foto Diagrama: Diagrama de las conexiones y componentes realizados para hacer la práctica.
 
-Foto: imagen de la practica hecha físicamente.
+Fotos (circuito fisico): imagenes de la practica hecha físicamente.
 
 Código: programa en Arduino que contiene las instrucciones en código que se llevaron
         a cabo para la realización del proyecto.
