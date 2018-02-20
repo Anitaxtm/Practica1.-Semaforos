@@ -24,7 +24,7 @@ Diagrama.png: Foto del diagrama de las conexiones y componentes realizados para 
 
 Foto1.png y Foto2.png  (circuito fisico): imagenes de la practica hecha físicamente.
 
-Código_semaforos_arduino: programa en Arduino que contiene las instrucciones en código que se llevaron
+Código_Semaforos_Arduino: programa en Arduino que contiene las instrucciones en código que se llevaron
         a cabo para la realización del proyecto.
 
 Nota
