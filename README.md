@@ -18,9 +18,11 @@ Contiene los siguientes archivos:
  
 README.MD : este archivo.
 
-Foto Diagrama: Diagrama de las conexiones y componentes realizados para hacer la práctica.
+Diagrama semaforos.fzz : Diagrama de las conexiones y componentes realizados para hacer la práctica hecha en Fritzing.
 
-Fotos (circuito fisico): imagenes de la practica hecha físicamente.
+Diagrama.png: Foto del diagrama de las conexiones y componentes realizados para hacer la práctica.
+
+Foto1.png y Foto2.png  (circuito fisico): imagenes de la practica hecha físicamente.
 
 Código: programa en Arduino que contiene las instrucciones en código que se llevaron
         a cabo para la realización del proyecto.
