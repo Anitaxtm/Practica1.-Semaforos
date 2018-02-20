@@ -35,4 +35,4 @@ si es que se necesita por si no se sigue el armado del circuito que se muestra e
 
 Contacto.
 --------------
-correo electronico: anitaxt@hotmail.com
+correo electronico: anitaxmt@hotmail.com
