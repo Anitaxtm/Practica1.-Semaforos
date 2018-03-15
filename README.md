@@ -36,3 +36,5 @@ si es que se necesita por si no se sigue el armado del circuito que se muestra e
 Contacto.
 --------------
 correo electronico: anitaxtm@hotmail.com
+
+Nombre: Ana Evelia Hernandez Aguirre.
